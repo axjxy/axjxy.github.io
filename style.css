@@ -10,10 +10,22 @@ p {
   font-family: 'Rubik', sans-serif;
   font-size: 24px;
   margin: auto;
+  color: white;
+  text-shadow:
+  -2px -2px 0 #000,
+  2px -2px 0 #000,
+  -2px 2px 0 #000,
+  2px 2px 0 #000;
 }
 h3 {
   font-family: 'Rubik', sans-serif;
   text-align: center;
+  color: white;
+  text-shadow:
+  -2px -2px 0 #000,
+  2px -2px 0 #000,
+  -2px 2px 0 #000,
+  2px 2px 0 #000;
 }
 
 .center {
@@ -22,6 +34,12 @@ h3 {
   margin-right: auto;
 }
 .flip {
+  color: white;
+  text-shadow:
+  -2px -2px 0 #000,
+  2px -2px 0 #000,
+  -2px 2px 0 #000,
+  2px 2px 0 #000;
   margin: auto;
   width: 50%;
     font-family: 'Rubik', sans-serif;
